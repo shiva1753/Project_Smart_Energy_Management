@@ -1,0 +1,24 @@
+# Python
+Backend/__pycache__/
+*.pyc
+
+# Large AI files
+Backend/energy_model.pkl
+Backend/household_power_consumption.txt
+
+# Node.js
+frontend/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
